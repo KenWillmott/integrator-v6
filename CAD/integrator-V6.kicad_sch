@@ -4077,7 +4077,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04bdbebc-c912-4fe0-9cec-4639f170fbe5")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 108.585 110.49 0)
 			(effects
 				(font
@@ -4131,7 +4131,7 @@
 		(instances
 			(project "integrator-V6"
 				(path "/b7263ebf-d74d-4fdb-8017-e4e8544e3c77"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -6896,7 +6896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e33bf8e8-6367-4dde-a488-3b9c75e893b7")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 109.22 69.215 0)
 			(effects
 				(font
@@ -6950,7 +6950,7 @@
 		(instances
 			(project "integrator-V6"
 				(path "/b7263ebf-d74d-4fdb-8017-e4e8544e3c77"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
