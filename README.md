@@ -11,6 +11,6 @@ The newer V6.0 is a smaller, more integrated version of the same circuit, with u
 Complete BOM: [BOM-V601(2025-04-11).xls](https://github.com/KenWillmott/integrator-v6/blob/main/BOM-V601(2025-04-11).xls)
 
 The project is listed at the PCBWay site, you can place an multi-board order there by following the ordering links and specifying "PCB+Assembly".
-[](https://www.pcbway.com/project/shareproject/W22492BSH46_integrator_V6_Gerber_e358a0f5.html)
+[PCBWay order link](https://www.pcbway.com/project/shareproject/W22492BSH46_integrator_V6_Gerber_e358a0f5.html)
 
 Note that you can produce the PCB by any method, by importing the KiCad project and exporting the necessary fabrication files.
