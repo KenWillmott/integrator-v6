@@ -20,5 +20,4 @@ PCBWay (and some other builders) have had problems sourcing the 3-way switch. So
 (100-SP1) switches. If you have the 6.03 PCB and the 3-way switch, you should place a solder blob on J1 to close the connection. If for any
 reason you have a 2-way switch, you should leave J1 as it is (default open). That will  sacrifice the ability to make approximate inductance measurements, while preserving the no-load and loaded settings (which are the most important ones).
 
-
-
+https://github.com/KenWillmott/integrator-v6/blob/main/board-J1-settings.png
