@@ -27,5 +27,5 @@ V6.02 --> 100SP3T1B4M7QE
 
 V6.03 --> 100SP1T1B4M7QE
 
-are preferred, since those configurations require no board or BOM modifications
+are preferred, since those configurations require no board or BOM modifications. However, V6.02 may be deprecated soon, since it's easier to modify V6.03 for either switch type.
 
