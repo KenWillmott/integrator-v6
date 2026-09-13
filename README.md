@@ -22,7 +22,9 @@ Some manufacturers and myself, have had problems sourcing the 3-way switch. So I
 <img width="452" height="116" alt="board-J1-settings" src="https://github.com/user-attachments/assets/0b1c5b91-30e5-41ee-9562-d95f330f82d4" />
 
 From a pure manufacturing point of view, the combinations
+
 V6.02 --> 100SP3T1B4M7QE
 V6.03 --> 100SP1T1B4M7QE
+
 are preferred, since those configurations require no board or BOM modifications
 
